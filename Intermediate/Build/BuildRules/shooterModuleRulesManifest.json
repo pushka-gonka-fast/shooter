@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Grand\\OneDrive\\Desktop\\shooter\\Intermediate\\Source\\shooter.Build.cs",
+		"C:\\Users\\Grand\\OneDrive\\Desktop\\shooter\\Intermediate\\Source\\shooter.Target.cs",
+		"C:\\Users\\Grand\\OneDrive\\Desktop\\shooter\\Intermediate\\Source\\shooterClient.Target.cs",
+		"C:\\Users\\Grand\\OneDrive\\Desktop\\shooter\\Intermediate\\Source\\shooterEditor.Target.cs",
+		"C:\\Users\\Grand\\OneDrive\\Desktop\\shooter\\Intermediate\\Source\\shooterServer.Target.cs"
+	],
+	"EngineVersion": "5.7.0"
+}
